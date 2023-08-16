@@ -27,7 +27,7 @@ public class CreateMLFile {
 		
 		// Properties 객체 생성
 		Properties prop = new Properties();
-		
+		   
 		System.out.println("생성할 파일 이름 : ");
 		String fileName = sc.nextLine();
 		
