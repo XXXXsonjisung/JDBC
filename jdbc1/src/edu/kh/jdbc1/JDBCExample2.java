@@ -21,7 +21,7 @@ public class JDBCExample2 {
 		try {
 			// 2단계 : 참조변수에 알맞은 객체 대입
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			
+			//크크
 			String type = "jdbc:oracle:thin:@"; // JDBC 드라이버 종류 
 			String ip = "localhost"; // DB 서버 컴퓨터 IP
 			String port = ":1521"; //포트번호 
